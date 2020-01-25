@@ -4,7 +4,6 @@
 #
 %define		pdir	Test
 %define		pnam	Time
-%include	/usr/lib/rpm/macros.perl
 Summary:	Test::Time - Overrides the time() and sleep() core functions for testing
 Name:		perl-Test-Time
 Version:	0.04
