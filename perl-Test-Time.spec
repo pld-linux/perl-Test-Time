@@ -7,7 +7,7 @@
 Summary:	Test::Time - Overrides the time() and sleep() core functions for testing
 Name:		perl-Test-Time
 Version:	0.04
-Release:	2
+Release:	3
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
