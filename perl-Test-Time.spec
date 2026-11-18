@@ -6,13 +6,13 @@
 %define		pnam	Time
 Summary:	Test::Time - Overrides the time() and sleep() core functions for testing
 Name:		perl-Test-Time
-Version:	0.04
-Release:	3
+Version:	0.092
+Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
-Source0:	http://www.cpan.org/modules/by-module/Test/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	006c4b2134f33d8dc98ecf545d4f8508
+Source0:	https://www.cpan.org/authors/id/A/AN/ANATOFUZ/%{pdir}-%{pnam}-%{version}.tar.gz
+# Source0-md5:	073acba94dddcf80f12017fc58e6a32a
 URL:		http://search.cpan.org/dist/Test-Time/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
